@@ -1,0 +1,32 @@
+[
+    {
+      "name": "black",
+      "category": "hue",
+      "type": "primary"
+    },
+    {
+      "name": "white",
+      "category": "value",
+	  "type": "secondary"
+    },
+    {
+      "name": "red",
+      "category": "hue",
+      "type": "primary"
+    },
+    {
+      "name": "blue",
+      "category": "hue",
+      "type": "primary"
+    },
+    {
+      "name": "yellow",
+      "category": "hue",
+      "type": "primary"
+    },
+    {
+      "name": "green",
+      "category": "hue",
+      "type": "secondary"    
+    }
+]
